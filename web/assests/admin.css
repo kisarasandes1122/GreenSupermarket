@@ -1,0 +1,82 @@
+.navbar {
+    left: 0;
+    width: 100%;
+    padding: 0px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    background: #0F3F00;
+    height: 103px;
+}
+.nav-bar ul a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 6px 15px;
+    border-radius: 20px;
+    margin: 0 0px;
+    font-weight: 560;
+    font-size: 19px;
+}
+
+.nav-bar ul{
+    list-style: none;
+}
+
+.nav-bar ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 5px;
+    margin: 0 5px;
+    cursor: pointer;
+    position: relative;
+}
+
+  .adpanel-header{
+      text-align: center;
+      background-color: #0F3F00;
+      display: flex;
+      padding: 5px;
+      border-radius: 0px 25px;
+      color: #F4FCEF;
+      font-size: 30px;
+      margin: auto;
+      margin-top: 3%;
+      justify-content: center;
+      z-index: 1111;
+      position: relative;
+      width: 27%;
+      height: 65px;
+      align-items: center;
+  }
+  main{
+      display: grid;
+      grid-template-columns: auto auto auto;
+      gap: 70px;
+      width: 100%;
+      justify-content: center;
+      padding: 86px 0px;
+
+  }
+
+
+  .adpanel-element{
+      background-color: #F4FCEF;
+      height: 200px;
+      width: 200px;
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      border-radius: 40px;
+  }
+  .grid{
+      background-color: #D8EBBD;
+      border-radius: 20px;
+      margin-top: -30px;
+  }
+  .btn-txt{
+      text-decoration: none;
+      color: black;
+      font-weight: 500;
+  }
