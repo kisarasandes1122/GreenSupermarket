@@ -1,4 +1,4 @@
-Green Supermarket Online Shopping Platform
+#  Green Supermarket Online Shopping Platform
   
 This project is developed to modernize and enhance the online presence of Green Supermarket, addressing various shortcomings of the existing website. Our team of six members collaboratively built a comprehensive e-commerce solution using Java, JavaScript, HTML, and CSS, with a focus on user-friendliness and efficient online shopping experience.
 
