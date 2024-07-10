@@ -26,6 +26,8 @@ How it Works:
 
 This project ensures a smooth and efficient shopping experience, catering to users of all age groups above nine years old, and simplifies the process of placing orders to avoid any potential hassles.
 
+Figma: https://www.figma.com/design/SEdN5MBksMb9ErzorvgcLQ/Green-Super-Market-UI?node-id=0-1&t=O5aHMtXvHigbecDJ-1
+
 Contributors:
 1.	Aswadige Fernando (Backend Development)
 2.	Mahamarakkalage Perera (Backend Development)
